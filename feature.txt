@@ -1,1 +1,1 @@
-wow contents of feature.txt
+contents of feature.txt
